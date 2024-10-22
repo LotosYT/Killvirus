@@ -15,7 +15,7 @@ if NOT %pass%== LotosSafety goto bye_bye
 :succes
 cls
 start explorer.exe
-You got Free
+echo You got Free
 goto end_programmm
 
 :bye_bye
