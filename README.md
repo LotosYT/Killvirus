@@ -14,7 +14,10 @@ So now i say you how to use this thing!
 
 When you would Prank a friend or something like this, this is perfect for u.
 The "Virus" killes the explorer and say: "Enter a Password" 
-The Password is LotosSafety but you can change it:
+The Password is LotosSafety but you can change it: Go ito the Editor and open the file. Now change The Word on: "if NOT %pass%== LotosSafety goto bye_bye" (Change LotosSafety to your Password)
+#Attention
+You have to change the variable "path" to the path where you have the Virus and dont change the name from the Virus file!
+
 
 When u change everything and would infect your first Computer you can use a Rubber Ducky or a Pico Ducky (Tutorial cooming soon)
 when you dont have anything like this you can run it per hand. Copie the file to and USB and plug it to your enemies PC now you only have to doubletap the script and the PC is infected.
