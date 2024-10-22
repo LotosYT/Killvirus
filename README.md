@@ -7,7 +7,7 @@
 
 ______________________________________________________________
 
-How to use the "Killvirus"
+# How to use the "Killvirus"
 First i would say this is not a real virus it is a project that started with a Chatbot that can make a nuke.
 
 So now i say you how to use this thing!
@@ -16,7 +16,7 @@ When you would Prank a friend or something like this, this is perfect for u.
 The "Virus" killes the explorer and say: "Enter a Password" 
 The Password is LotosSafety but you can change it: Go ito the Editor and open the file. Now change The Word on: "if NOT %pass%== LotosSafety goto bye_bye" (Change LotosSafety to your Password)
 
-
+# How to run the "Killvirus"
 
 When u change everything and would infect your first Computer you can use a Rubber Ducky or a Pico Ducky (Tutorial cooming soon)
 when you dont have anything like this you can run it per hand. Copie the file to and USB and plug it to your enemies PC now you have to copy 
