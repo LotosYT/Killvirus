@@ -16,7 +16,7 @@ if NOT %pass%== LotosSafety goto bye_bye
 cls
 start explorer.exe
 You got Free
-goto end
+goto end_programmm
 
 :bye_bye
 start explorer.exe
@@ -28,4 +28,4 @@ goto wait
 :wait
 goto wait
 
-:end
+:end_programmm
