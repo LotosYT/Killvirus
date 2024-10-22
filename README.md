@@ -15,7 +15,7 @@ So now i say you how to use this thing!
 When you would Prank a friend or something like this, this is perfect for u.
 The "Virus" killes the explorer and say: "Enter a Password" 
 The Password is LotosSafety but you can change it: Go ito the Editor and open the file. Now change The Word on: "if NOT %pass%== LotosSafety goto bye_bye" (Change LotosSafety to your Password)
-#Attention
+# Attention
 You have to change the variable "path" to the path where you have the Virus and dont change the name from the Virus file!
 
 
